@@ -8,13 +8,13 @@
 <!-- wheon06's profile -->
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=wheon06&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
+  <img src="https://github-readme-stats.vercel.app/api?username=wheon06&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=50% />
 </a>
 <a href="https://github.com/wheon06/github-stats">
- <img src="https://raw.githubusercontent.com/wheon06/github-stats/output/generated/languages.svg" width=51% />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wheon06&layout=compact&hide=python" width=38%/>
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wheon06&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wheon06&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=88%/>
 </a>
 
 
