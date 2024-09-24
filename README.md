@@ -1,38 +1,51 @@
-<div align="center">
-<br><br><br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=2f80ed&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+HeeYeon.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
-
-<br><br><br>
-
-<!-- wheon06's profile -->
+<div align="right">
  
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wheon06&theme=react-dark&bg_color=fff&hide_border=false&line=2f80ed&color=2f80ed&point=888" width=88%/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=wheon06&show_icons=true&theme=material-palenight&bg_color=ffffff&icon_color=bbb&text_color=999&title_color=2f80ed&count_private=true" width=50% />
-</a>
-<a href="https://github.com/wheon06/github-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wheon06&layout=compact&hide=python" width=38%/>
-</a>
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwheon06&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
+</div>
 
-<br><br><br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Heeyeon+Lee!;" />
+</h1>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwheon06&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+<br/>
 
-<!--
-**wheon06/wheon06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ 
+ 🌱 I’m currently learning **React, NextJS, Docker**
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,python,java,js,ts,react,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,spring,sequelize,jest" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,supabase,github,git,docker,linux,nginx,npm,webstorm" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/wheon06/wheon06/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<div align="center">
+  <h2>⚡ Stats ⚡</h2>
+ <br>
+ 
+ [![wheon06's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wheon06&theme=react&custom_title=wheon06's+Contributio+Graph)](https://github.com/wheon06/github-readme-activity-graph)
+ 
+</div>
+
+<hr/>
+<br/>
