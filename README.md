@@ -14,7 +14,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **React, NextJS, Docker**
+ 🌱 I’m currently learning **React, Docker, Jest**
 
 </div>
 
