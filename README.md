@@ -4,9 +4,8 @@
 
 </div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Heeyeon+Lee!+🍀;" />
-</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2b91b0,100:66ae7b&height=120&fontColor=E6E6FA&fontAlign=50&animation=fadeIn&section=footer&text=Heeyeon🍀&fontAlign=70)
+<br/>
 
 <br/>
 
