@@ -22,11 +22,9 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,java,js,ts,react,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,spring,sequelize,jest" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,supabase,github,git,docker,linux,nginx,npm,webstorm" /><br>
-</div>
+주니어 풀스택 개발자입니다.
+
+> Typescript, React, Next, Nest
 
 <br/>
 <hr/>
