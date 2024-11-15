@@ -36,16 +36,3 @@
   
   <br/><br/><br/>
 </div>
-
-<hr/>
-
-<div align="center">
-  <h2>⚡ Stats ⚡</h2>
- <br>
- 
- [![wheon06's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wheon06&theme=react&custom_title=wheon06's+Contributio+Graph)](https://github.com/wheon06/github-readme-activity-graph)
- 
-</div>
-
-<hr/>
-<br/>
