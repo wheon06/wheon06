@@ -20,7 +20,7 @@
 
 <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">👋 Introduction</h2>
 <br/>
 주니어 풀스택 개발자입니다.
 
