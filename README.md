@@ -23,7 +23,10 @@
       </td>
       <td>치매예방 AI 음성 챗봇 서비스</td>
       <td>Backend</td>
-      <td>2025 Us:Code 해커톤 우수상</td>
+      <td>
+        <a href="https://uscode.kr">2025 Us:Code 해커톤</a>
+        우수상
+      </td>
     </tr>
   </tbody>
 </table>
