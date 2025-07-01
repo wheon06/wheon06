@@ -1,4 +1,4 @@
-### 🧑‍🤝‍🧑 Personal Projects
+### 🧑‍🤝‍🧑 Projects & Experiences
 <table>
   <thead align="center">
     <tr border: none;>
