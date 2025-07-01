@@ -1,9 +1,29 @@
-## 💡 Tech Stack
-
-| 🚀 Favorite | 🧩 Interested |
-|:-----------:|:-------------:|
-| ![Java](https://go-skill-icons.vercel.app/api/icons?i=java) ![Spring](https://go-skill-icons.vercel.app/api/icons?i=spring) ![SpringDataJPA](https://go-skill-icons.vercel.app/api/icons?i=springdatajpa) | ![Kotlin](https://go-skill-icons.vercel.app/api/icons?i=kotlin) ![AWS](https://go-skill-icons.vercel.app/api/icons?i=aws) ![Redis](https://go-skill-icons.vercel.app/api/icons?i=redis) |
-
-## 📚 Recent Posts
-- [**👾 Kprintf 2025 컨퍼런스 회고**](https://www.notion.so/wheon/Kprintf-2025-1ffbceaef5bf808897f1f83d6e90abef)ㅣ2025.05.25
-- [**📦 DTO를 Record 타입으로 선언한다면 어떨까**](https://www.notion.so/wheon/DTO-Record-1ffbceaef5bf80b39e8fe39e463ed776)ㅣ2025.05.22
+### 🧑‍🤝‍🧑 Personal Projects
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>이름</b></td>
+      <td><b>설명</b></td>
+      <td><b>역할</b></td>
+      <td><b>비고</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/Yeoun-project/yeoun">여운</a>
+      </td>
+      <td>사용자 주도 자기성찰 Q&A 서비스</td>
+      <td>Backend</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Us-Code-Garlic/Garlic-Holic-Backend">나마늘기억해</a>
+      </td>
+      <td>치매예방 AI 음성 챗봇 서비스</td>
+      <td>Backend</td>
+      <td>2025 Us:Code 해커톤 우수상</td>
+    </tr>
+  </tbody>
+</table>
